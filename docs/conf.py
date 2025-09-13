@@ -1,4 +1,4 @@
-project = 'PC Matic'
+project = 'IDrive'
 author = 'Denial'
 release = '1.0'
  
