@@ -1,4 +1,4 @@
-project = 'Idrive'
+project = 'PC Matic'
 author = 'Denial'
 release = '1.0'
  
@@ -12,4 +12,4 @@ html_static_path = ['_static']
 html_js_files = [
     'chatbot.js',
 ]
-html_favicon = '_static/idrive.jpg'
+html_favicon = '_static/pcmatic.jpg
